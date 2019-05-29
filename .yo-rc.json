@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:ashelkov/ashelkov-frontend-app.git",
+    "project_destination_path": "ashelkov-frontend-app",
+    "application_name": "ashelkovFrontEnd",
+    "project_technology": "frontend-deployment",
+    "api_url": "http://api.api"
+  }
+}
